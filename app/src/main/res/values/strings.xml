@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clima</string>
+
+    <string name="ok_button">Ok</string>
+    <string name="yes_button">Sim</string>
+    <string name="no_button">Não</string>
+    <string name="title_label">Name</string>
+    <string name="aguarde">aguarde</string>
+</resources>
